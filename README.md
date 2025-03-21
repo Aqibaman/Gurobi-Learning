@@ -4,8 +4,8 @@ Welcome to the Gurobi Workshop repository! Here, you'll find all the projects, e
 
 This contents will be covered:
 
-Projects
+1. Project Question
 
-Exercises
+2. Problem Formulation & Model development
 
-Solutions
+3. Solution Analysis
