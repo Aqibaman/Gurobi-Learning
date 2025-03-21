@@ -4,8 +4,6 @@ Welcome to the Gurobi Workshop repository! Here, you'll find all the exercises, 
 
 This contents will be covered:
 
-1. Project Question
+1. Problem Formulation & Model development
 
-2. Problem Formulation & Model development
-
-3. Solution Analysis
+2. Solution Analysis
